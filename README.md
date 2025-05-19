@@ -1,4 +1,4 @@
-Hi, my name is Katie Hur, and I am currently a sophomore at Yale University looking to major in Computer Science.
+Hi! I'm Katie Hur, a CS major @ Yale and a member of Computer Society, Blackfoot Lab, Women's Club Soccer, and Alpha Phi Sorority.
 
 <!---
 katiehur5/katiehur5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
