@@ -1,4 +1,12 @@
-Hi! I'm Katie Hur, a CS major @ Yale and a member of Computer Society, Blackfoot Lab, Women's Club Soccer, and Alpha Phi Sorority.
+Hi!
+
+I'm Katie Hur, a member of Computer Society, Blackfoot Lab, Women's Club Soccer, and Alpha Phi Sorority.
+
+##🔭Current projects##
+* A Cross-Linguistic Linked Data web app to display lexical data of Blackfoot, an Algonquian language spoken in Alberta (CA) and Montana (USA)
+* A React web app for my sorority to promote fashion sustainability by mediating clothing swaps
+* The Yale facebook
+
 
 <!---
 katiehur5/katiehur5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
