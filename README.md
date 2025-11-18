@@ -2,7 +2,7 @@ Hi!
 
 I'm Katie Hur, a member of Computer Society, Blackfoot Lab, Women's Club Soccer, and Alpha Phi Sorority.
 
-**🔭Current projects**
+**Current projects**
 * A Cross-Linguistic Linked Data web app to display lexical data of Blackfoot, an Algonquian language spoken in Alberta (CA) and Montana (USA)
 * A React web app for my sorority to promote fashion sustainability by mediating clothing swaps
 * The Yale facebook
